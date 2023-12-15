@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appointment_time: 2021-10-07 01:30:48
+  issue: MyString
+  completed: false
+
+two:
+  appointment_time: 2021-10-07 01:30:48
+  issue: MyString
+  completed: false
